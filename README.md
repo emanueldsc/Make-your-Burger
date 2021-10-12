@@ -1,19 +1,26 @@
-# make-you-burger
+# Projeto de aprendizagm VueJS 3
 
-## Project setup
-```
-yarn install
-```
+## Make your Burger
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Para executar deve ser instalado o globalmente o json-server:
 
-### Compiles and minifies for production
-```
-yarn build
-```
+<code>
+    npm install -g json-server
+</code>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+E executar o script `db.json` na pasta `/db/db.json`
+
+<code lang="javascript">
+    json-server db/db.json
+</code>
+
+Para executar o projeto basta executar:
+
+<code>
+    npm run server
+</code>
+
+### Segue as as screenshot
+
+![Home](screenshot/home.png)
+![Home](screenshot/pedidos.png)
