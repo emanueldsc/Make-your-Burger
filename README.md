@@ -4,23 +4,23 @@
 
 Para executar deve ser instalado o globalmente o json-server:
 
-<code>
-    npm install -g json-server
-</code>
+```
+npm install -g json-server
+```
 
 E executar o script `db.json` na pasta `/db/db.json`
 
-<code lang="javascript">
-    json-server db/db.json
-</code>
+```
+json-server db/db.json
+```
 
 Para executar o projeto basta executar:
 
-<code>
-    npm run server
-</code>
+```
+npm run server
+```
 
-### Segue as as screenshot
+### Segue as screenshot
 
 ![Home](screenshot/home.png)
 ![Home](screenshot/pedidos.png)
