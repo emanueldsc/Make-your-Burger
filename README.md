@@ -2,19 +2,19 @@
 
 ## Make your Burger
 
-Para executar deve ser instalado o globalmente o json-server:
+Intalar globalmente o json-server:
 
 ```
 npm install -g json-server
 ```
 
-E executar o script `db.json` na pasta `/db/db.json`
+Execute o script `db.json` na pasta `/db/db.json`
 
 ```
 json-server db/db.json
 ```
 
-Para executar o projeto basta executar:
+Para executar o projeto basta digitar o seguinte comando no terminal:
 
 ```
 npm run server
